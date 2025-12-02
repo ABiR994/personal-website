@@ -45,6 +45,7 @@ This repository contains the code for a personal website project. It includes mu
 
 ### Introduction Page
 ![Introduction](screenshots/intro1.png)
+
 ![Introduction](screenshots/intro2.png)
 
 ### Login Page
