@@ -1,0 +1,62 @@
+.contact-hero {
+    min-height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.85)), url('../images/0.jpg') center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 120px 20px 40px 20px;
+}
+
+.contact-box {
+    width: 520px;
+    background: rgba(255,255,255,0.12);
+    padding: 50px;
+    text-align: left;
+    border-radius: 16px;
+    backdrop-filter: blur(12px);
+    color: white;
+    box-sizing: border-box;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.6);
+}
+
+.contact-box .box-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 25px auto;
+}
+
+.contact-box h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact-box h2 {
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.contact-box p {
+    margin: 10px 0;
+    line-height: 1.8;
+}
+
+.contact-box ul {
+    list-style: inside disc;
+    margin: 8px 0 18px 0;
+    padding-left: 20px;
+}
+
+.hero-buttons {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.hero-buttons .btn {
+    margin: 5px;
+    padding: 12px 28px;
+    font-size: 16px;
+}
